@@ -1,0 +1,21 @@
+introduction
+STLC
+Test case design
+planning
+design(BB and WBT)
+Execuation Error Reporting(Defect life cycle)
+
+
+Project
+Descipation
+Modules(
+Funcitionality)
+Number of Scenario
+Defects Count
+Snapshot of scenarios
+Reports
+
+1.Requirement Testitbility matrix
+2.Bar Graph (Test case vs Modules)
+3.Defect Report
+4.Defect Graph
